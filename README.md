@@ -55,9 +55,12 @@ We use a dynamic learning rate schedule to optimize the training process. This h
 For a comprehensive overview of the project, you can check out our final presentation [here](https://docs.google.com/presentation/d/1HhorN4YtLje3-nN4yfO1XDlBp_ajjqxw/edit?usp=drive_link&ouid=105021192907539123189&rtpof=true&sd=true).
 
 
-## Documentation
+## Reports and Final Presentation
 
-[Documentation](https://linktodocumentation)
+[Proposal](Project_Report/CSCI_544_Project_Proposal_Team41.pdf)
+[MidTerm Report](Project_Report/MidtermReport.pdf)
+[Final Report](Project_Report/Final%20Report.pdf)
+[Presentation Slides](Project_Report/Project%20Presentation.pptx)
 
 
 ## Installation
