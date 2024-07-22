@@ -58,8 +58,11 @@ For a comprehensive overview of the project, you can check out our final present
 ## Reports and Final Presentation
 
 [Proposal](Project_Report/CSCI_544_Project_Proposal_Team41.pdf)
+
 [MidTerm Report](Project_Report/MidtermReport.pdf)
+
 [Final Report](Project_Report/Final%20Report.pdf)
+
 [Presentation Slides](Project_Report/Project%20Presentation.pptx)
 
 
